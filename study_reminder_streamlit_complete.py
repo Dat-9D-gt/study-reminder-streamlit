@@ -103,5 +103,12 @@ if st.button("▶️ Bắt đầu Pomodoro"):
 # --- Footer ---
 st.markdown("---")
 st.markdown("**Ghi chú:** Dữ liệu lưu trong `study_reminder_data.csv`. Có thể xóa file để reset.")
+st.markdown("---")
+st.markdown("""
+### 👨‍💻 Nhà sáng lập
+**Dat 9D GT**  
+Ứng dụng được phát triển nhằm hỗ trợ học tập hiệu quả hơn qua hệ thống nhắc nhở và giọng nói tự động.
+""")
+
 
 
