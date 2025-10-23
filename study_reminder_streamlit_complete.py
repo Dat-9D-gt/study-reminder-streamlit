@@ -106,9 +106,10 @@ st.markdown("**Ghi chú:** Dữ liệu lưu trong `study_reminder_data.csv`. Có
 st.markdown("---")
 st.markdown("""
 ### 👨‍💻 Nhà sáng lập
-**Dat 9D GT**  
+**NHOM 1 9D**  
 Ứng dụng được phát triển nhằm hỗ trợ học tập hiệu quả hơn qua hệ thống nhắc nhở và giọng nói tự động.
 """)
+
 
 
 
